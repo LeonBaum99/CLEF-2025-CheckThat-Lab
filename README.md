@@ -15,7 +15,7 @@ Documentation of Group 20 in the course Advanced Information Retrieval (AIR) at 
     - query files: contain the tweets that mention scientific resources
     - collection file: contains the scientific resources
 - Code folder
-    - files and jupyter notebooks that implement our approaches
+    - scripts and jupyter notebooks that implement our approaches
     - Getting started notebook from original challenge creaters
         - Import data, implement baseline solution (BM25), evaluate baseline and export results in correct format for submission
 
