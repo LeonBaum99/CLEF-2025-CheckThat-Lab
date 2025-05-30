@@ -26,8 +26,6 @@ Documentation of Group 20 in the course Advanced Information Retrieval (AIR) at 
 - Predictions folder
     - includes the predicted papers for the different query sets
 
-requirements.txt
-A text file containing all necessary Python packages required to run the project scripts. Use the following command to install these dependencies:
 
 `requirements.txt`  
 A text file containing all necessary Python packages required to run the project scripts. Use the following command to install these dependencies:
@@ -39,7 +37,7 @@ pip install -r requirements.txt
 ## Reference
 
 If you want to use this work in any kind, please cite the following information:
-```bash
+```bibtex
 @InProceedings{clef-checkthat:2025:task4:AIRwaves,
 author = {Ashbaugh, Cem and Baumgärtner, Leon and Greß, Tim and Sidorov, Nikita and Werner, Daniel},
 title = "AIRwaves at CheckThat! 2025: Retrieving Scientific Sources for Implicit Claims on Social Media with Dual Encoders and Neural Re-Ranking",
