@@ -12,8 +12,12 @@ Documentation of Group 20 in the course Advanced Information Retrieval (AIR) at 
 ## File structure
 
 - Data folder
-    - query files: contain the tweets that mention scientific resources
-    - collection file: contains the scientific resources
+    - query files - contain the tweets that mention scientific resources:
+        - data\subtask4b_query_tweets_train.tsv
+        - data\subtask4b_query_tweets_dev.tsv
+        - data\subtask4b_query_tweets_test_gold.tsv
+    - collection file - contains scientific resources:
+        - subtask4b_collection_data.pkl
 - Code folder
     - scripts and jupyter notebooks that implement our approaches
     - Getting started notebook from original challenge creaters
