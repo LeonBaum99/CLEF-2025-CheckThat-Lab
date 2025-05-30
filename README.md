@@ -19,8 +19,28 @@ Documentation of Group 20 in the course Advanced Information Retrieval (AIR) at 
     - collection file - contains scientific resources:
         - subtask4b_collection_data.pkl
 - Code folder
-    - scripts and jupyter notebooks that implement our approaches
-    - Getting started notebook from original challenge creaters
-        - Import data, implement baseline solution (BM25), evaluate baseline and export results in correct format for submission
+    - jupyter notebooks that implement the approaches
+        - Sparse Retrieval BM25     
+        - Neural Representation Learning
+        - Neural Reranking
+- Predictions folder
+    - includes the predicted papers for the different query sets
+
+requirements.txt
+A text file containing all necessary Python packages required to run the project scripts. Use the following command to install these dependencies:
+
+```bash
+pip install -r requirements.txt
 
 Python Version 3.10.16
+
+## Reference
+
+If you want to use this work in any kind, please cite the following information:
+
+
+ 
+     
+
+
+
