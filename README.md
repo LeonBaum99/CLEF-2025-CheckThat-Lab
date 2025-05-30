@@ -27,7 +27,7 @@ Documentation of Group 20 in the course Advanced Information Retrieval (AIR) at 
     - includes the predicted papers for the different query sets
 
 
-`requirements.txt`  
+## requirements.txt 
 A text file containing all necessary Python packages required to run the project scripts. Use the following command to install these dependencies:
 
 ```bash
