@@ -38,7 +38,7 @@ title = "AIRwaves at CheckThat! 2025: Retrieving Scientific Sources for Implicit
 year = {2025},
 booktitle = "Working Notes of CLEF 2025 - Conference and Labs of the Evaluation Forum",
 series = {CLEF~'2025},
-address = {Grenoble, France},
+address = {Madrid, Spain},
 crossref = "clef2025-workingnotes"
 }
 ```
