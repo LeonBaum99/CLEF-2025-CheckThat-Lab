@@ -5,8 +5,7 @@ The Conference and Labs of the Evaluation Forum (CLEF) contributes to the scient
 ## Project overview
 
 This project addresses the information retrieval challenge CheckThat! Task 4b, which aims to retrieve the most relevant research papers mentioned in social media posts. The presented solutions and approaches were at the top of the competition's leaderboard. They were summarised in a paper and published in the CLEF 2025 proceedings. Find the publication here:
-
-- *will be added once published in september 2025*
+- https://ceur-ws.org/Vol-4038/paper_63.pdf
 
 Further resources:
 - The original materials to get started with the challenge can be found at: https://gitlab.com/checkthat_lab/clef2025-checkthat-lab/-/tree/main/task4/subtask_4b
